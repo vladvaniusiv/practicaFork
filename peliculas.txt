@@ -10,3 +10,6 @@ Titanic
 Gladiator
 El señor de los anillos
 Star Wars
+Deadool
+spider-man
+Un ciudadano ejemplar
