@@ -6,3 +6,4 @@ Añade a continuación tu nombre,  apellidos (si quieres usar pseudónimo, me in
 =======
 Emiliano Uribes Martinez-Quintanilla  6J
 Robinson Jara Largo  6J
+Eduard Verdeguer Gimenez  6J
