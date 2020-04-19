@@ -12,3 +12,5 @@ Eduard Verdeguer Gimenez  6J
 Nacho Ubeda Pardo  6J
 
 Francisco Jimenez Perez   6J
+
+Miriam Medina Mompó 6J
