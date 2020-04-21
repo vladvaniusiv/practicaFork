@@ -1,4 +1,4 @@
-Juego de Tronos
+﻿Juego de Tronos
 El Juego de Ender
 La Historia Interminable
 El Silmarilion
@@ -43,3 +43,6 @@ El retorno de los dragones
 La Torre De La Golondrina
 La Dama Del Lago
 La Sangre De Los Elfos
+El principito
+Jorge el curioso
+El Quijote

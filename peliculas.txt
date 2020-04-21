@@ -1,4 +1,4 @@
-Blade Runner
+﻿Blade Runner
 Matrix
 Her
 Ex Machina
@@ -43,3 +43,6 @@ Planet Terror
 Ali-G
 Borat
 El Dictador
+El señor de los anillos
+Grease
+La vida es Bella

@@ -1,4 +1,4 @@
-The Beatles
+﻿The Beatles
 Ella & Louis
 Jagged Little Pill
 The Joshua Tree
@@ -43,3 +43,6 @@ Te cambio una rumba por un sigarro
 IOWA
 A Night At The Opera
 Mutter
+One
+Born in the USA
+Por la boca vive el pez
