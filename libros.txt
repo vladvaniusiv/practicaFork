@@ -1,4 +1,4 @@
-Juego de Tronos
+﻿Juego de Tronos
 El Juego de Ender
 La Historia Interminable
 El Silmarilion
@@ -46,3 +46,6 @@ La Sangre De Los Elfos
 Alliences. Un juego de luz 
 La Casa de los Esp�ritus 
 La sombra del Viento 
+El principito
+Jorge el curioso
+El Quijote

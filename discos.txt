@@ -1,4 +1,4 @@
-The Beatles
+﻿The Beatles
 Ella & Louis
 Jagged Little Pill
 The Joshua Tree
@@ -46,3 +46,6 @@ Mutter
 Coldplay Viva la Vida or Death and All His Friends 
 Welcome to the Black Parade 
 El peor Grupo del Mundo 
+One
+Born in the USA
+Por la boca vive el pez
