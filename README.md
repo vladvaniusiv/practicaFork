@@ -27,10 +27,10 @@ Ivan Navarro Cebirán 6J
 
 Adrián Torralba Gómez 6J
 
-Bosco Andreu Verdet 6J
-
 Hugo Olivas Martínez 6j
 
 Juan Jose Torrome 6J
 
 Inmaculada Gracia Abad 6J
+
+Bosco Andreu Verdet 6J
