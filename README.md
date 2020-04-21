@@ -24,3 +24,5 @@ Mario Boudiba Zanon 6J
 Miriam Medina Mompó 6J
 
 Ivan Navarro Cebirán 6J
+
+Adrián Torralba Gómez 6J
