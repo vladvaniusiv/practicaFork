@@ -44,3 +44,5 @@ Melania Ogalla Rodriguez 6U
 Fernando Gálvez López 1DAM- 6U
 
 Alexander Xavier Cubas Pérez	7S
+
+Omar Jacinto Pastor Vacas 1DAM- 6U
