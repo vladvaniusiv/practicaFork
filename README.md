@@ -48,3 +48,7 @@ Alexander Xavier Cubas Pérez	7S
 Omar Jacinto Pastor Vacas 1DAM- 6U
 
 Santiago Cámara Sánchez 1DAM - 6U
+
+Maria Colomar Roig 1DAM - 6U
+dir
+clear
