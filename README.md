@@ -50,3 +50,5 @@ Omar Jacinto Pastor Vacas 1DAM- 6U
 Santiago Cámara Sánchez 1DAM - 6U
 
 Maria Colomar Roig 1DAM - 6U
+
+Jesús García Lázaro 1DAM - 7U
